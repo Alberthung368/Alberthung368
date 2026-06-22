@@ -1,4 +1,4 @@
-# LEARNING FROM CLAUDE.md
+# I. LEARNING FROM CLAUDE.md
 
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
 
@@ -65,7 +65,7 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 =================================================
 
-# penpot
+# II. Penpot
 Một công cụ thiết kế UI có thể làm được nhiều việc giống Figma, nhưng khác ở chỗ: mở hơn, tự chủ hơn và thân thiện hơn với team kỹ thuật? 😳
 
 https://github.com/penpot/penpot
@@ -87,7 +87,7 @@ Một lựa chọn đáng chú ý nếu bạn đang tìm công cụ thiết kế
 
 =================================================
 
-# 🔥 TOP 5 REPO GITHUB TRENDING
+# III. TOP 5 REPO GITHUB TRENDING
 
 🤖 Xu hướng nổi bật tiếp tục là AI Agent, Coding Agent và các công cụ giúp lập trình viên giảm token, hiểu source code nhanh hơn.
 
