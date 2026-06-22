@@ -63,7 +63,27 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 ---
 ## These guidelines are working if: fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
 
-===============================================================
+=================================================
+## Một công cụ thiết kế UI có thể làm được nhiều việc giống Figma, nhưng khác ở chỗ: mở hơn, tự chủ hơn và thân thiện hơn với team kỹ thuật? 😳
+
+# penpot
+## https://github.com/penpot/penpot
+
+Có một nền tảng khá hay dành cho team làm UI/UX, giúp designer, developer và cả AI Agent cùng làm việc trên một hệ thống thiết kế rõ ràng hơn.
+
+## Điểm đáng chú ý:
+🎨 Thiết kế UI/UX cho web và app
+🧩 Tạo design system, component, token
+👥 Hỗ trợ cộng tác realtime cho cả team
+📐 Làm prototype tương tác
+💻 Bản thiết kế gần hơn với cách developer triển khai
+🤖 Có hướng tích hợp với AI workflow qua MCP
+🔐 Có thể self-host để chủ động dữ liệu
+🌍 Phù hợp cho team product, startup, designer và developer
+Điểm hay là nó không chỉ là nơi vẽ giao diện, mà còn giúp giảm khoảng cách giữa thiết kế, lập trình và quy trình bàn giao.
+Khá hợp với team muốn một workflow thiết kế mở hơn, chủ động hơn và ít phụ thuộc hơn vào nền tảng đóng.
+Một lựa chọn đáng chú ý nếu bạn đang tìm công cụ thiết kế UI có thể cộng tác, quản lý design system và bàn giao cho developer tốt hơn.
+=================================================
 
 # 🔥 TOP 5 REPO GITHUB TRENDING
 
